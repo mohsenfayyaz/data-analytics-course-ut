@@ -1,0 +1,25 @@
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+lines: 21
+char_count: [(' ', 124), ('e', 90), ('t', 76), ('i', 50), ('a', 50), ('o', 43), ('s', 43), ('n', 40), ('l', 33), ('r', 32), ('h', 31), ('b', 20), ('\n', 20), ('u', 20), ('p', 20), ('.', 18), ('y', 17), ('m', 16), ('c', 16), ('d', 16), ('f', 11), ('g', 11), ('x', 6), ('-', 6), ('v', 5), (',', 4), ("'", 4), ('w', 4), ('T', 3), ('S', 3), ('A', 3), ('I', 3), ('P', 2), ('E', 2), ('k', 2), ('N', 2), ('*', 2), ('Z', 1), ('B', 1), ('C', 1), ('F', 1), ('R', 1), ('U', 1), ('D', 1), ('!', 1)]
+word_count: [('is', 10), ('better', 8), ('than', 8), ('to', 5), ('the', 5), ('of', 3), ('Although', 3), ('never', 3), ('be', 3), ('one', 3), ('idea', 3), ('should', 2), ('obvious', 2), ('way', 2), ('do', 2), ('it', 2), ('may', 2), ('If', 2), ('implementation', 2), ('explain', 2), ('a', 2), ('The', 1), ('Zen', 1), ('Python', 1), ('by', 1), ('Tim', 1), ('Peters', 1), ('Beautiful', 1), ('ugly', 1), ('Explicit', 1), ('implicit', 1), ('Simple', 1), ('complex', 1), ('Complex', 1), ('complicated', 1), ('Flat', 1), ('nested', 1), ('Sparse', 1), ('dense', 1), ('Readability', 1), ('counts', 1), ('Special', 1), ('cases', 1), ("aren't", 1), ('special', 1), ('enough', 1), ('break', 1), ('rules', 1), ('practicality', 1), ('beats', 1), ('purity', 1), ('Errors', 1), ('pass', 1), ('silently', 1), ('Unless', 1), ('explicitly', 1), ('silenced', 1), ('In', 1), ('face', 1), ('ambiguity', 1), ('refuse', 1), ('temptation', 1), ('guess', 1), ('There', 1), ('and', 1), ('preferably', 1), ('only', 1), ('that', 1), ('not', 1), ('at', 1), ('first', 1), ('unless', 1), ("you're", 1), ('Dutch', 1), ('Now', 1), ('often', 1), ('right', 1), ('now', 1), ('hard', 1), ("it's", 1), ('bad', 1), ('easy', 1), ('good', 1), ('Namespaces', 1), ('are', 1), ('honking', 1), ('great', 1), ("let's", 1), ('more', 1), ('those', 1)]
